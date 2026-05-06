@@ -2,13 +2,13 @@
 
 **`Analista de Dados em Formação`**  
 
-Cursando Ciência da Computação e desenvolvendo minha experiência trabalhando com dados reais para explorar, tratar e analisar informações, identificando padrões e gerando insights relevantes. Utilizo Python, SQL e visualização para transformar informações em decisões mais claras e estratégicas.  
+Cursando Ciência da Computação, desenvolvo minha experiência com dados na prática, trabalhando com dados reais para explorar, tratar e analisar informações, identificar padrões e gerar insights relevantes.  
 
 ---
 
 ## Sobre mim
 - Foco em Análise de Dados (EDA, Data Cleaning e Insights)  
-- Pensamento analítico e resolução de problemas  
+- Análise e interpretação de dados para resolução de problemas 
 - Experiência com automação e integração de APIs (N8N)  
 - Vivência com dados operacionais e análise de incidentes  
 - Em constante evolução na área de dados  
@@ -51,4 +51,4 @@ Cursando Ciência da Computação e desenvolvendo minha experiência trabalhando
 
 ---
 
-## ✨ Transformando dados em insights claros para decisões mais inteligentes.
+## ✨ Transformando dados em insights claros que apoiam decisões mais inteligentes.
