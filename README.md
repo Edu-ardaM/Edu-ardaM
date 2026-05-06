@@ -6,7 +6,7 @@ Cursando Ciência da Computação e desenvolvendo minha experiência trabalhando
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 - Foco em Análise de Dados (EDA, Data Cleaning e Insights)  
 - Pensamento analítico e resolução de problemas  
 - Experiência com automação e integração de APIs (N8N)  
