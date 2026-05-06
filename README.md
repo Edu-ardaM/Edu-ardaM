@@ -17,14 +17,14 @@ Cursando Ciência da Computação e desenvolvendo minha experiência trabalhando
 
 ## 🔗 Conecte-se comigo
 <p align="left">
-    <a href="https://github.com/seuusuario">
+    <a href="https://github.com/Edu-ardaM">
         <img 
             alt="GitHub" 
             title="Meu GitHub" 
             src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/seu-link">
+    <a href="https://www.linkedin.com/in/eduarda-mendes-0046571b9">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
@@ -41,10 +41,10 @@ Cursando Ciência da Computação e desenvolvendo minha experiência trabalhando
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
-<img align="left" alt="Excel" title="Excel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg"/>
+<img align="left" alt="Excel" title="Excel" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
 <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png"/>
 <img align="left" alt="HTML" title="HTML básico" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="N8N" title="N8N" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4"/>
 
 <br/>
 <br/>
