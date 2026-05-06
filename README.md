@@ -15,7 +15,7 @@ Cursando Ciência da Computação e desenvolvendo minha experiência trabalhando
 
 ---
 
-## 🔗 Conecte-se comigo
+## Conecte-se comigo
 <p align="left">
     <a href="https://github.com/Edu-ardaM">
         <img 
@@ -35,7 +35,7 @@ Cursando Ciência da Computação e desenvolvendo minha experiência trabalhando
 
 ---
 
-## 🤖 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
